@@ -1,0 +1,6 @@
+{
+  "name": "Daily Mix BD - Organic Care & E-Commerce Suite",
+  "description": "Daily Mix BD storefront, streamlined checkout with district and thana selection, order management and editing, image invoice download, and audio notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
